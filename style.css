@@ -1,0 +1,50 @@
+.header {
+	padding: 8px;
+	display: flex;
+}
+
+.header-logo {
+	color: white;
+	align-self: center;
+}
+
+.links {
+	display: flex;
+	gap: 24px;
+	list-style-type: none;
+	margin-left: auto;
+}
+
+.info {
+	background-color: white;
+}
+
+.web-intro {
+	display: flex;
+}
+
+.right-img {
+	margin-left: auto;
+	margin-right: 50px;
+}
+
+.info {
+	align-self: center;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+body {
+	background-color: #1f2937;
+	padding: 0px 100px 0px;
+	display: flex;
+	flex-direction: column;
+	gap: 50px;
+}
+
+p {
+	color: orange;
+}
